@@ -1,3 +1,3 @@
 # week3-day1-ml-fundamentals_5n3_varra.lolakshi
 Machine Learning project using Scikit-learn to predict student performance based on study hours, attendance, and assignments using Linear Regression model.
-https://github.com/varralolakshi12-bot/week3-day1-ml-fundamentals_5n3_varra.lolakshi#week3-day1-ml-fundamentals_5n3_varralolakshi
+ https://github.com/varralolakshi12-bot/week3-day1-ml-fundamentals_5n3_varra.lolakshi#week3-day1-ml-fundamentals_5n3_varralolakshi
